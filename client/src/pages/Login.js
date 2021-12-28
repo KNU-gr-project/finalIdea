@@ -9,6 +9,7 @@ import Swal from "sweetalert";
 //임시 import
 // import { KAKAO_AUTH_URL } from "./OAuth";
 // 이렇게 fork를 하는게 맞나?
+// 아니 뭐냐고
 async function loginUser(data) {
   // const history = useHistory();
   axios
