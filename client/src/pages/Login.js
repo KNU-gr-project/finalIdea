@@ -8,7 +8,7 @@ import Swal from "sweetalert";
 
 //임시 import
 // import { KAKAO_AUTH_URL } from "./OAuth";
-
+// 2021-12-28 졸프 다시 재개하다.
 async function loginUser(data) {
   // const history = useHistory();
   axios
